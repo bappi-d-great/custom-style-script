@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: css\n"
+"POT-Creation-Date: 2014-03-18 05:36+0600\n"
+"PO-Revision-Date: 2014-03-18 05:36+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../custom-style-script.php:75
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../custom-style-script.php:82
+msgid "Custom Style Script"
+msgstr ""
+
+#: ../custom-style-script.php:85
+msgid "Panel for adding styles and scripts in your website"
+msgstr ""
+
+#: ../custom-style-script.php:89
+msgid "Add Styles in Website Header"
+msgstr ""
+
+#: ../custom-style-script.php:93 ../custom-style-script.php:102
+#: ../custom-style-script.php:132 ../custom-style-script.php:141
+msgid "You don't need to add &lt;style&gt;&lt;/style&gt; tag."
+msgstr ""
+
+#: ../custom-style-script.php:98
+msgid "Add Styles in Website Footer"
+msgstr ""
+
+#: ../custom-style-script.php:107
+msgid "Add Scripts in Website Header"
+msgstr ""
+
+#: ../custom-style-script.php:111 ../custom-style-script.php:120
+#: ../custom-style-script.php:150 ../custom-style-script.php:159
+msgid "You don't need to add &lt;script&gt;&lt;/script&gt; tag."
+msgstr ""
+
+#: ../custom-style-script.php:116
+msgid "Add Scripts in Website Footer"
+msgstr ""
+
+#: ../custom-style-script.php:124
+msgid "Panel for adding styles and scripts in your admin dashboard"
+msgstr ""
+
+#: ../custom-style-script.php:128
+msgid "Add Styles in Admin Header"
+msgstr ""
+
+#: ../custom-style-script.php:137
+msgid "Add Styles in Admin Footer"
+msgstr ""
+
+#: ../custom-style-script.php:146
+msgid "Add Scripts in Admin Header"
+msgstr ""
+
+#: ../custom-style-script.php:155
+msgid "Add Scripts in Admin Footer"
+msgstr ""
+
+#: ../custom-style-script.php:175
+msgid "Sorry, your nonce is not verified."
+msgstr ""
